@@ -37,7 +37,7 @@ def speak_control(list_source, navigation_clue):
 
 def speak(text):
     file = "speak.mp3"
-    tts = gTTS(text)
+    tts = gTTS(text, slow=True)
     tts.save(file)
     playsound.playsound(file)
     os.remove(file)
