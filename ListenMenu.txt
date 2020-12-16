@@ -1,0 +1,6 @@
+============Control============
+Press
+[p] Previous word
+[n] Next word
+[x] Exit
+================================
