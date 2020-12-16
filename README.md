@@ -5,6 +5,6 @@ My kids are enjoying doing spelling bee competitions. They inspired me to write 
 
 To run this tool:
 
-1. from dos cmd, type [path to venv]\python.exe [path to main.py]
+1. from dos cmd, type [path to venv]\scripts\python.exe [path to main.py]
 2. make sure you have your mic and headset/speaker turned on
 3. have fun!
